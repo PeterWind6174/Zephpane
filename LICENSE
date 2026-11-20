@@ -1,0 +1,20 @@
+Zephpane licensing
+
+For original Zephpane material, the following licenses apply by path.
+
+1. endpoints/ and session-core/, including their subdirectories:
+   PolyForm Noncommercial License 1.0.0
+   (SPDX: PolyForm-Noncommercial-1.0.0).
+   Full terms: LICENSES/PolyForm-Noncommercial-1.0.0.txt
+   A separate commercial license may be obtained from the relevant
+   rights holders. Contact the project maintainer via GitHub Issues.
+
+2. All other original Zephpane material, including server/, server/deploy/,
+   docs/, tests/e2e/, and the root project documentation:
+   Apache License, Version 2.0 (SPDX: Apache-2.0).
+   Full terms: LICENSES/Apache-2.0.txt
+
+Third-party material retains its own licenses and notices. References and
+links to external projects do not grant rights to those projects under
+either Zephpane license. The license texts in LICENSES/ are reproduced
+as published by their respective authors.
